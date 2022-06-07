@@ -1,0 +1,53 @@
+body {
+  background-color: #c3cfe2;
+  margin: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+#text-section {
+  position: relative;
+  font-size: 36px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #696767;
+  background-color: #fff;
+  padding: 70px;
+  text-align: left;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
+img {
+  position: absolute;
+  top: 580px;
+  right: 300px;
+  border-radius: 80%;
+  width: 150px;
+  height: 150px;
+  border: 8px solid #fff;
+}
+
+#footer-section {
+  background-color: #686de0;
+  padding: 70px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+#footer-text {
+  text-align: center;
+  color: #fff;
+  padding: 40px;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+#footer-website {
+  text-align: center;
+  color: #8889b3;
+  font-size: 22px;
+}
+/*# sourceMappingURL=styling.css.map */
